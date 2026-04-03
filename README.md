@@ -2,7 +2,7 @@
 
 A responsive and interactive Cash Flow Tracker built using HTML, CSS, and JavaScript. This project allows users to manage their salary and expenses, track balance in real-time, and visualize financial data with charts.
 
-🌐 Live Demo 👉 https://aryan-webdeveloper.github.io/Cash-Flow-Tracker/
+🌐 Live Demo 👉 https://aryan-webdeveloper.github.io/Cash-flow-tracker/
 
 📸 ![Website Screenshot](./img/Screenshot1.png)
 📸 ![Website Screenshot](./img/Screenshot2.png)
